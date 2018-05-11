@@ -1,0 +1,10 @@
+abcdefghijklmnopqrstuvwxyz
+1.5±¶
+ 2/8/20/60/180/540/1620/4320/11880/64800
+ 10/30/90/270/810/2430/6750/18630/83430
+
+2/4/8/16/38/88/206/480
+
+ 
+
+sc create xxSVNService binpath= "E:\svn\Subversion\bin\svnserve.exe --service -r E:\RepSVNService" start= auto depend= Tcpip
